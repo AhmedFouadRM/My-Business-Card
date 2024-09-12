@@ -1,16 +1,26 @@
-# business_card
+# Business Card App
 
-A new Flutter project.
+This is my first Flutter project—a simple mobile application that displays my business card with personal information.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays a business card with:
+  - Full name
+  - Job title
+  - Contact information (phone number, email)
+  - Social media links (LinkedIn, GitHub, etc.)
+  - Profile picture
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- Add a screenshot of your app here when available -->
+<img src="Screenshot/Screenshot.jpg" width="300">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To run this project locally:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/AhmedFouadRM/My-Business-Card.git
